@@ -7,6 +7,8 @@
 ## Minor
 - Computer Science
 
+# [Skills](newpage.md)
+
 *Anticipated Graduation:* 2024
 
 ![Vanderbilt Engineering](Vanderbilt_Engineering_logo.svg.png)
