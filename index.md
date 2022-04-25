@@ -1,10 +1,10 @@
 # Welcome to Olivia Jones' website!
 
-##Major(s):
+## Major(s):
 - Chemical Engineering
 - Chemistry
 
-##Minor
+## Minor
 - Computer Science
 
 *Anticipated Graduation:* 2024
