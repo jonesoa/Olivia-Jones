@@ -8,3 +8,5 @@
 - Computer Science
 
 *Anticipated Graduation:* 2024
+
+![Vanderbilt Engineering](Vanderbilt_Engineering_logo.svg.png)
